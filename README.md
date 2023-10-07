@@ -35,7 +35,7 @@
   <ul>
     <li>React</li>
     <li>Redux</li>
-    <li>Ruby on Rails</li>
+    <li>RoR</li>
     <li>PostgreSQL</li>
   </ul>
 </details>
